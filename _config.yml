@@ -18,7 +18,7 @@ address:
   - line:  "860 High St NE, Salem, OR 97301"
   - line:
   # Feel free to add more lines here 
-telephone:
+telephone:  "503-TES-TNUM"
 copyright:  "Oregon Judo 2016-2017"
 
 # API settings
