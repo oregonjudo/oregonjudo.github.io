@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://oregonjudoka.com" # the base hostname & protocol for your site
 
 # User setting
-owner:  "Loren Loose"
+owner:  "Oregon Judo"
 email:  "oregonjudo@gmail.com"
 facebook_username:  "oregonjudo"
 twitter_username:
