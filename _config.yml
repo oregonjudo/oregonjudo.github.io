@@ -1,6 +1,6 @@
 # Site settings
-title:Oregon Judo
-email:oregonjudo@gmail.com
+title:  "Oregon Judo"
+email:  "oregonjudo@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,20 +9,20 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://oregonjudoka.com" # the base hostname & protocol for your site
 
 # User setting
-owner:Loren Loose
-email:oregonjudo@gmail.com
-facebook_username:oregonjudo
+owner:  "Loren Loose"
+email:  "oregonjudo@gmail.com"
+facebook_username:  "oregonjudo"
 twitter_username:
 github_username:
-address:860 High St NE, Salem, OR 97301
-  - line:
+address:
+  - line:  "860 High St NE, Salem, OR 97301"
   - line:
   # Feel free to add more lines here 
 telephone:
-copyright:Oregon Judo 2016-2017
+copyright:  "Oregon Judo 2016-2017"
 
 # API settings
-google_api_key:AIzaSyAs1qnVH0SwgzrHncXe0rDGH_Jh9dvNlqU
+google_api_key:  "AIzaSyAs1qnVH0SwgzrHncXe0rDGH_Jh9dvNlqU"
 
 # Build settings
 markdown: kramdown
