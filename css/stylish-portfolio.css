@@ -186,6 +186,11 @@ hr.small {
   color:#fff;
   text-decoration:none;
 }
+.service-item a:hover,
+.service-item a:focus,
+.service-item a:active {
+    color: #333;
+}
 /* Callout */
 
 .callout {
