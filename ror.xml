@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://oregonjudoka.com/</title>
+  <link>http://oregonjudoka.com/</link>
+
+<item>
+     <link>http://oregonjudoka.com/</link>
+     <title>Oregon Judo - Join Our Dojo Today</title>
+     <description>Judo is a fun, safe sport enjoyed by people all over the world. We provide a friendly environment for people to come and participate in something special.</description>
+     <ror:updatePeriod>monthly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
