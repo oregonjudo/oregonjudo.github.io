@@ -172,6 +172,10 @@ hr.small {
     padding: 20px 0;
     min-height:477px;
 }
+#content {
+text-align:left;
+text-indent: 50px;
+}
 
 /* Services */
 
