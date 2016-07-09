@@ -38,7 +38,7 @@ $(document).ready(function() {
     $('#map_iframe').addClass('scrolloff');
   });
   $(window).scroll(function() {
-    if ($(this).scrollTop() >= 1000) {        
+    if ($(this).scrollTop() >= 700) {        
         document.getElementById('scroll-top').style.display = "block";   
     } else {
         document.getElementById('scroll-top').style.display = "none";  
