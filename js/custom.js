@@ -43,7 +43,7 @@ function setContent(id){
 var titles = ["HOME", "CLASSES", "SCHEDULE","RATES","INSTRUCTORS","EVENTS"];
 var headings = ["Welcome To Oregon Judo", "Beginner/Intermediate &amp; Advanced", "Tuesday and Thursday Every Week","","Loren Loose",""];
 var contents = [
-"Hello all, We are a nationally sanctioned judo club through the USJF. Judo is a fun, safe sport enjoyed by people all over the world. Our goal is to create a friendly environment for people to come and participate in something special.<br><br>Can't wait to meet you,<br>Loren Loose", 
+"We are a nationally sanctioned judo club through the USJF. Judo is a fun, safe sport enjoyed by people all over the world. Our goal is to create a friendly environment for people to come and participate in something special.<br><br>Can't wait to meet you,<br>Loren Loose", 
 
 "<b>Beginner class</b> covers and reviews the basics of judo. Lead by the instructor, students can learn drills and workouts in a place that is comfortable for them. We want you to succeed!<p class='ind'><b>Intermediate class</b> bridges the gap from beginner to advanced by refining basic skills, and adding new tools and techniques to work with.</p><p class='ind'><b>Advanced class</b> has a minimum requirement of a blue-belt. You may also be invited by the senior instructor. This class covers judo at the competition level. Randori(sparring) is required.</p></p>",
 
