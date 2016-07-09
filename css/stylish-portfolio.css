@@ -178,8 +178,12 @@ hr.small {
   text-indent: 50px;
 }
 .ind {
+  margin-bottom: 20px;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 1.4;
   text-align:left;
-  text-indent: 50px;
+  padding-left: 50px;
 }
 
 #ctag {
