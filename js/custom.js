@@ -38,3 +38,9 @@ $(document).ready(function() {
     $('#map_iframe').addClass('scrolloff');
   });
 });
+
+function setContent(id){
+var titles = ["HOME", "CLASSES", "SCHEDULE","RATES","INSTRUCTORS","EVENTS"];
+var headings = ["Welcome To Oregon Judo", "Beginner &amp; Intermediate", "Tuesday and Thursday Every Week","","",""];
+var contents = ["Hello all, We are a nationally sanctioned judo club through the USJF. Judo is a fun, safe sport enjoyed by people all over the world. Our goal is to create a friendly environment for people to come and participate in something special.<br><br>Can't wait to meet you,<br>Loren Loose", "(classes content)", "<br><b>Beginner Judo</b> - 11:00 AM<br><b>Intermediate Judo</b> - 12:00 PM<br>(More Classes to Come!)",""];
+}

@@ -177,9 +177,13 @@ hr.small {
   text-align:left;
   text-indent: 50px;
 }
+.ind {
+  text-align:left;
+  text-indent: 50px;
+}
 
 #ctag {
-  color:rgb(26, 140, 255);
+  color:#002a86;
   text-align:left;
   padding-bottom:15px;
 }
