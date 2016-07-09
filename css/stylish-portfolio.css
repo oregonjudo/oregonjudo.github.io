@@ -311,4 +311,5 @@ background-color:#002a86
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
   display:none;
+  z-index: 10000;
 }
