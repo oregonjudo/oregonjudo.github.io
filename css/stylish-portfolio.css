@@ -172,9 +172,16 @@ hr.small {
     padding: 20px 0;
     min-height:477px;
 }
+
 #content {
-text-align:left;
-text-indent: 50px;
+  text-align:left;
+  text-indent: 50px;
+}
+
+#ctag {
+  color:rgb(26, 140, 255);
+  text-align:left;
+  padding-bottom:15px;
 }
 
 /* Services */
