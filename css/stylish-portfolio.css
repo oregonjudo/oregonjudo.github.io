@@ -185,7 +185,11 @@ hr.small {
   text-align:left;
   padding-left: 50px;
 }
-
+@media (min-width: 768px) {
+  .ind {
+    font-size: 21px;
+  }
+}
 #ctag {
   color:#002a86;
   text-align:left;
