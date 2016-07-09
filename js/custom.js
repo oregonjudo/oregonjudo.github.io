@@ -37,6 +37,13 @@ $(document).ready(function() {
   $('#map_iframe').mouseleave(function  () {
     $('#map_iframe').addClass('scrolloff');
   });
+  $(window).scroll(function() {
+    if ($(this).scrollTop() >= 670) {        
+        document.getElementById('scroll-top').style.display = "block";   
+    } else {
+        document.getElementById('scroll-top').style.display = "none";  
+    }
+});
 });
 
 function setContent(id){
