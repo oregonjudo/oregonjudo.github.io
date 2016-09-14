@@ -60,31 +60,9 @@ var contents = [
  
  "Loren has been studying and training in judo for 10+ years. He is Shodan rank, promoted by the USJF.",
  
- "<img src='/img/event1.png' style='max-width: 100%;height: auto;'>"
+ "<img src='/img/event1.png' style='text-align:center;max-width: 100%;height: auto;'>"
  ];
  document.getElementById('ctitle').innerHTML = titles[id];
  document.getElementById('ctag').innerHTML = headings[id];
  document.getElementById('content').innerHTML = contents[id];
- if(id == 5){
-	var canvas = document.getElementById("event1_canvas");
-	var ctx = canvas.getContext("2d");
-
-	img = new Image();
-	canvas.height = canvas.width * (img.height / img.width);
-
-    /// step 1
-    var oc = document.createElement('canvas'),
-        octx = oc.getContext('2d');
-
-    oc.width = img.width * 0.5;
-    oc.height = img.height * 0.5;
-    octx.drawImage(img, 0, 0, oc.width, oc.height);
-
-    /// step 2
-    octx.drawImage(oc, 0, 0, oc.width * 0.5, oc.height * 0.5);
-
-    ctx.drawImage(oc, 0, 0, oc.width * 0.5, oc.height * 0.5,
-    0, 0, canvas.width, canvas.height);
-	img.src = "/img/event1.png";
- }
 }
