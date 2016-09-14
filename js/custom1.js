@@ -60,7 +60,7 @@ var contents = [
  
  "Loren has been studying and training in judo for 10+ years. He is Shodan rank, promoted by the USJF.",
  
- "<img src='/img/event1.png' style='text-align:center !important; max-width: 100%;height: auto;'>"
+ "<img src='/img/event1.png' style='max-width: 95%;height: auto;margin:auto;'>"
  ];
  document.getElementById('ctitle').innerHTML = titles[id];
  document.getElementById('ctag').innerHTML = headings[id];
